@@ -1,0 +1,1 @@
+this is a basic sample using msnodesql, including the current version of msnodesql _with_ compiled binaries on win8x64 
