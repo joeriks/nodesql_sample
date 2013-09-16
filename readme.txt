@@ -7,7 +7,8 @@
 // issue tracker on the driver repository: 
 // https://github.com/WindowsAzure/node-sqlserver/issues/126
 //
-// Working sample code:
+// 
+// Working sample code (npm install msnodesql):
 //
 
 var sql = require('msnodesql');
