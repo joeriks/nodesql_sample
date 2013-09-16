@@ -1,10 +1,9 @@
 //
 // This is a basic sample using "msnodesql" Microsofts Nodejs driver for MS SQL
-// including the current version of msnodesql _with_ compiled binaries on win8x64 
+// including the current version of msnodesql _with_ compiled binaries for Node 0.10 (current) & x64 
 // which you otherwise need to compile for yourself if you like to use the driver.
-// Vote for an updated version https://github.com/WindowsAzure/node-sqlserver/issues/126
-//
-// Driver repo is at https://github.com/WindowsAzure/node-sqlserver
+// Until Microsoft updated the binaries themselfes, vote for that to happen att the
+// issue tracker on the drive repository: https://github.com/WindowsAzure/node-sqlserver/issues/126
 //
 // Working sample code:
 //
